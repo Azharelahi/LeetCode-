@@ -17,5 +17,5 @@ var longestCommonPrefix = function(strs) {
 
     return prefix;
 };
-console.log(longestCommonPrefix(["Azhar","Azharuddin","Azharu","Azharuddin"]));
+console.log(longestCommonPrefix(["Azhar","Azharuddin","Azharu","Azharuddin","Azharullah"]));
 
